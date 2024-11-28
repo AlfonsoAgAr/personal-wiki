@@ -173,3 +173,7 @@ pyrightconfig.json
 # Environments
 .venv/
 venv/
+
+
+# Project
+conversations.json
